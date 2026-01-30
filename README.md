@@ -17,7 +17,7 @@ sudo apt install nasm binutils
 
 ## Building an Example
 
-To assemble a source file (for example, `hello.asm`):
+To assemble a source file using Netwide Assembler (for example, `hello.asm`):
 
 ```bash
 nasm -f elf64 hello.asm
