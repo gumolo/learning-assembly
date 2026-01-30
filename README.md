@@ -5,10 +5,7 @@ Not a course.
 
 ## Overview
 
-This repository contains small assembly programs written for x86-64 Linux.  
-The goal is exploration and experimentation, not structured teaching material or best practices.
-
-Expect minimal examples, direct system calls, and very little abstraction.
+This repository contains small assembly programs written for x86-64 Linux. The goal is exploration and experimentation, not structured teaching material or best practices. Expect minimal examples, direct system calls, and very little abstraction.
 
 ## Requirements
 
